@@ -543,8 +543,9 @@ body.light hr.separator {
 
 .home .bg {
   background-image: url(../img/2.png);
-  background-size: cover;
+  /* background-size:cover; */
   background-repeat: no-repeat;
+  /* background-position: center; */
   background-position: top;
   height: calc(100vh - 80px);
   z-index: 111;
